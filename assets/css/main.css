@@ -1,0 +1,11 @@
+body {
+    font-family: var(--font);
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --font: "Nunito Sans",sans-serif;
+    --bg-opacity: 1;
+    --bg-primary: #f8f9ff;
+}
